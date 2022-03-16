@@ -1,6 +1,6 @@
 <template>
   <div class="here">
-      Welcome, I'm Phearum
+      Welcome, I'm Phearum with new tag 
   </div>
 </template>
 
