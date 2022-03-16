@@ -1,6 +1,6 @@
 <template>
   <div class="here">
-      hello world, I'm Phearum
+      Welcome, I'm Phearum
   </div>
 </template>
 
