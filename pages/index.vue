@@ -1,6 +1,6 @@
 <template>
   <div class="here">
-      Welcome, tag 7
+      Welcome, tag 7, and notification trigger
   </div>
 </template>
 
